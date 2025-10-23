@@ -7,7 +7,7 @@
     { "id": 5, "login": "usuario05", "senha": "1", "senhaRepeticao": "1", "cpf": "111111111", "admin": false }
   ],
   "times": [
-    { "id": 1, "nome": "Time 1", "idTecnico": "1", "idJogador": '1" },
+    { "id": 1, "nome": "Time 1", "idTecnico": "1", "idJogador": "1" },
     { "id": 2, "nome": "Time 2", "idTecnico": "2", "idJogador": "2" },
     { "id": 3, "nome": "Time 3", "idTecnico": "3", "idJogador": "3" },
     { "id": 4, "nome": "Time 4", "idTecnico": "4", "idJogador": "4" }
