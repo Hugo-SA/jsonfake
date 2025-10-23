@@ -17,7 +17,7 @@
     { "id": 2, "idTecnico": "2" "nome": "Jogador 2", "idade": "1", "pePreferido": "esquerdo", "posicao": "atacante", "altura": "1" },
     { "id": 3, "idTecnico": "3" "nome": "Jogador 3", "idade": "1", "pePreferido": "esquerdo", "posicao": "meio-campo", "altura": "1" },
     { "id": 4, "idTecnico": "4" "nome": "Jogador 4", "idade": "1", "pePreferido": "direito", "posicao": "lateral", "altura": "1" },
-    { "id": 5, "idTecnico": "5' "nome": "Jogador 5", "idade": "1", "pePreferido": "direito", "posicao": "zagueiro", "altura": "1" }
+    { "id": 5, "idTecnico": "5" "nome": "Jogador 5", "idade": "1", "pePreferido": "direito", "posicao": "zagueiro", "altura": "1" }
   ],
   "competicao": [
     { "id": 1, "idTime": "1", "nome": "Competicao 1", "dataInicio": "11-11-1111", "dataTermino": "22-22-2222" },
